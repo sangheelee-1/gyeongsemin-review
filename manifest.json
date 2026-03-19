@@ -4,8 +4,8 @@
   "description": "대연뜰한의원 네이버 후기 작성 도우미 앱",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FBF7EE",
-  "theme_color": "#B8960C",
+  "background_color": "#FAFAF7",
+  "theme_color": "#C9A84C",
   "orientation": "portrait",
   "lang": "ko",
   "icons": [
